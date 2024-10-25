@@ -31,10 +31,6 @@ body {
     margin: 0%;
 }
 
-body, html {
-    overflow-x: hidden;
-}
-
 a {
     text-decoration: none;
 }
